@@ -1,0 +1,31 @@
+_repo: Ring-O-Roses--A-Nursery-Rhyme-Picture-Book_20652
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Brooke, L. Leslie (Leonard Leslie)
+    aliases:
+    - Brooke, Leslie
+    - Brooke, Leonard Leslie
+    birthdate: 1862
+    deathdate: 1940
+    gutenberg_agent_id: '3547'
+    url: http://www.gutenberg.org/2009/agents/3547
+covers:
+- cover_type: archival
+  image_path: 20652-h/images/cover_l.jpg
+description: ''
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2007-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20652'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry'
+- !lcsh 'Nursery rhymes'
+- !lcc 'PZ'
+title: 'Ring O'' Roses: A Nursery Rhyme Picture Book'
+url: http://www.gutenberg.org/ebooks/20652
